@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272051981003",
+    "project_id": "cravedash-e36f9",
+    "storage_bucket": "cravedash-e36f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272051981003:android:f8fc9a770bef10968c294e",
+        "android_client_info": {
+          "package_name": "com.example.cravedash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkA1mlP4TWGtJFtgsTdZtM98zfSB-HO2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

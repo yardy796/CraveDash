@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.CraveDash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/atome_yellow</item>
+        <item name="colorPrimaryVariant">@color/atome_black</item>
+        <item name="colorOnPrimary">@color/atome_black</item>
+        <item name="android:windowBackground">@color/atome_black</item>
+        <item name="android:statusBarColor">@color/atome_black</item>
+    </style>
+</resources>
